@@ -1,0 +1,22 @@
+Allow Others to Find Me: Default
+Private Account: Disabled
+Personalized Ads: Enabled
+Ads Based on Data Received from Partners: On
+Ads From Third-party Ad Networks: On
+Who Can Post Comments: Default
+Who Can React to Me: Default
+Who Can Duet With Me: Default
+Who Can Send Me Message: Everyone
+Who Can View Videos I Liked: Visible to Myself
+Filter Comments: Default
+Interests: 
+Video Languages Preferences: id
+
+Push Notification
+New Fans: Default
+New Likes on My Video: Default
+New Comments on My Video: Default
+
+App Language
+Language: Bahasa Indonesia
+
